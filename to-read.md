@@ -1,0 +1,6 @@
+* [Linearizability: A Correctness Condition for Concurrent Objects](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
+* [Specifying systems](http://research.microsoft.com/en-us/um/people/lamport/tla/book-02-08-08.pdf)
+* [Stumbling over consensus research: Misunderstandings and issues](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.174.8238&rep=rep1&type=pdf)
+* [A Brief Tour of FLP Impossibility](http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/)
+* [WHAT WE TALK ABOUT WHEN WE TALK ABOUT DISTRIBUTED SYSTEMS](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
+* [Scaling Stateful Services](https://github.com/caitiem20/scalingstatefulservices)
